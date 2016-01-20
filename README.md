@@ -1,7 +1,7 @@
 This application is an ongoing project whih is going to visualize the git log results with different graphs.
 
       
-#Requirements
+![](http://docutils.sourceforge.net/docs/user/rst/images/ball1.gif) **Requirements**
                             					          
 
  - PyQtGraph 0.9.9+ 
