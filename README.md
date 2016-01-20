@@ -1,4 +1,4 @@
-This application is an ongoing project whih is going to visualize the git log results with different graphs.
+This application is an ongoing project whih is going to store the git log results in a MongoDB database and visualize with different graphs.
 
       
 ![](http://docutils.sourceforge.net/docs/user/rst/images/ball1.gif) **Requirements**
