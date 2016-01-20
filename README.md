@@ -8,7 +8,8 @@ This application is an ongoing project whih is going to visualize the git log re
  - Python 2.7 and 3+
  - PyQt or PySide 4.8+
  - NumPy
- - python-opengl 
+ - python-opengl
+ - mongodb 2.4.9+
 
 
 #Example charts
